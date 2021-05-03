@@ -1,0 +1,4079 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ninetheme Bobby\n"
+"POT-Creation-Date: 2020-05-21 15:56+0300\n"
+"PO-Revision-Date: 2016-04-30 00:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: Ninetheme <pekekonomik@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;esc_html__;esc_html_e;"
+"_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:39
+msgid "404"
+msgstr ""
+
+#: ../404.php:41 ../404.php:64
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:65
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../archive.php:76 ../index.php:74
+msgid "Previous page"
+msgstr ""
+
+#: ../archive.php:77 ../index.php:75
+msgid "Next page"
+msgstr ""
+
+#: ../archive.php:78 ../search.php:70
+msgid "Page"
+msgstr ""
+
+#: ../comments.php:25
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:32 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:33 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:72
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr ""
+
+#: ../content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:32
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content-page.php:39 ../post-format/content-aside.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:45 ../content-search.php:36 ../functions.php:520
+msgid "Edit"
+msgstr ""
+
+#: ../content-search.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-search.php:32
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-search.php:32
+msgid "% Comments"
+msgstr ""
+
+#: ../footer/contact.php:7
+msgid "Location"
+msgstr ""
+
+#: ../footer/contact.php:13
+msgid "Contact"
+msgstr ""
+
+#: ../footer/contact.php:19
+msgid "Tell us about you"
+msgstr ""
+
+#: ../functions.php:18
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:160
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:190
+msgid ""
+"If you need help about demodata installation, please read docs and open a "
+"ticket on <a target=\"_blank\" href=\"https://9theme.ticksy.com/tickets/"
+"\">Ninetheme Support Center</a>"
+msgstr ""
+
+#: ../functions.php:207
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:209
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: ../functions.php:216
+msgid "Widgetize footer"
+msgstr ""
+
+#: ../functions.php:218 ../functions.php:227
+msgid "These are widgets for the Shop single Sidebar."
+msgstr ""
+
+#: ../functions.php:225
+msgid "Shop single Sidebar"
+msgstr ""
+
+#: ../functions.php:235
+msgid "Woo  shop page Sidebar"
+msgstr ""
+
+#: ../functions.php:237
+msgid "These are widgets for the shop page Sidebar."
+msgstr ""
+
+#: ../functions.php:246
+msgid "Header Sidebar Menu"
+msgstr ""
+
+#: ../functions.php:248
+msgid "These are widgets for the header sidebar menu."
+msgstr ""
+
+#: ../functions.php:269
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:274
+msgid "Woocommerce"
+msgstr ""
+
+#: ../functions.php:279
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:283
+msgid "Theme Options Panel"
+msgstr ""
+
+#: ../functions.php:288
+msgid "Envato Auto Update Theme"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Page Builder"
+msgstr ""
+
+#: ../functions.php:301 ../includes/merlin/class-merlin.php:2024
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Price Table Manager"
+msgstr ""
+
+#: ../functions.php:313
+msgid "WP Holywood Shortcodes"
+msgstr ""
+
+#: ../functions.php:506
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:506
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:523
+msgid "at"
+msgstr ""
+
+#: ../functions.php:526
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/bootsnav.php:132
+msgid "Add a menu"
+msgstr ""
+
+#: ../includes/breadcrumb.php:44
+msgid "Our Blog"
+msgstr ""
+
+#: ../includes/breadcrumb.php:45 ../includes/breadcrumb.php:47
+msgid "Home"
+msgstr ""
+
+#: ../includes/breadcrumb.php:91
+msgid "Category: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:93
+msgid "Tag: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:106
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/breadcrumb.php:108 ../includes/woocommerce/woocommerce.php:209
+msgid "Search"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:335
+#: ../includes/demo-wizard-config.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:393
+#: ../includes/class-tgm-plugin-activation.php:920
+#: ../includes/class-tgm-plugin-activation.php:2626
+#: ../includes/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:394
+#: ../includes/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:395
+#: ../includes/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1027
+#: ../includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2366
+#: ../includes/merlin/class-merlin.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2810
+#: ../includes/demo-wizard-config.php:49 ../includes/demo-wizard-config.php:50
+#: ../includes/demo-wizard-config.php:51
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2819
+#: ../includes/demo-wizard-config.php:53
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#: ../includes/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3602
+#: ../includes/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:25
+#: ../includes/custom-metaboxes/page-metaboxes.php:36
+msgid "Page menu visibility"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:29
+msgid "visible"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:30
+msgid "hidden"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:40
+msgid "custom metabox menu"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:41
+msgid "default"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:220
+msgid "Member Social Box"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:252
+msgid "Holywood onepage menu"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:299
+#: ../includes/custom-metaboxes/page-metaboxes.php:888
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:303
+#: ../includes/custom-metaboxes/page-metaboxes.php:892
+msgid "Gallery Style"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:304
+#: ../includes/custom-metaboxes/page-metaboxes.php:893
+msgid "Select the gallery style."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:308
+#: ../includes/custom-metaboxes/page-metaboxes.php:897
+msgid "Slider"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:309
+#: ../includes/custom-metaboxes/page-metaboxes.php:898
+msgid "Grid"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:314
+#: ../includes/custom-metaboxes/page-metaboxes.php:903
+msgid "Select Images"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:315
+#: ../includes/custom-metaboxes/page-metaboxes.php:904
+msgid "Select the images from the media library or upload your new ones."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:320
+#: ../includes/custom-metaboxes/page-metaboxes.php:409
+#: ../includes/custom-metaboxes/page-metaboxes.php:492
+#: ../includes/custom-metaboxes/page-metaboxes.php:567
+#: ../includes/custom-metaboxes/page-metaboxes.php:666
+#: ../includes/custom-metaboxes/page-metaboxes.php:830
+#: ../includes/custom-metaboxes/page-metaboxes.php:909
+#: ../includes/custom-metaboxes/page-metaboxes.php:1011
+#: ../includes/custom-metaboxes/page-metaboxes.php:1106
+msgid "Show Meta Information"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:321
+#: ../includes/custom-metaboxes/page-metaboxes.php:410
+#: ../includes/custom-metaboxes/page-metaboxes.php:493
+#: ../includes/custom-metaboxes/page-metaboxes.php:568
+#: ../includes/custom-metaboxes/page-metaboxes.php:667
+#: ../includes/custom-metaboxes/page-metaboxes.php:831
+#: ../includes/custom-metaboxes/page-metaboxes.php:910
+#: ../includes/custom-metaboxes/page-metaboxes.php:1012
+#: ../includes/custom-metaboxes/page-metaboxes.php:1107
+msgid "Check this to show metadata."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:325
+#: ../includes/custom-metaboxes/page-metaboxes.php:337
+#: ../includes/custom-metaboxes/page-metaboxes.php:349
+#: ../includes/custom-metaboxes/page-metaboxes.php:361
+#: ../includes/custom-metaboxes/page-metaboxes.php:414
+#: ../includes/custom-metaboxes/page-metaboxes.php:426
+#: ../includes/custom-metaboxes/page-metaboxes.php:438
+#: ../includes/custom-metaboxes/page-metaboxes.php:450
+#: ../includes/custom-metaboxes/page-metaboxes.php:497
+#: ../includes/custom-metaboxes/page-metaboxes.php:509
+#: ../includes/custom-metaboxes/page-metaboxes.php:521
+#: ../includes/custom-metaboxes/page-metaboxes.php:533
+#: ../includes/custom-metaboxes/page-metaboxes.php:554
+#: ../includes/custom-metaboxes/page-metaboxes.php:572
+#: ../includes/custom-metaboxes/page-metaboxes.php:584
+#: ../includes/custom-metaboxes/page-metaboxes.php:596
+#: ../includes/custom-metaboxes/page-metaboxes.php:608
+#: ../includes/custom-metaboxes/page-metaboxes.php:671
+#: ../includes/custom-metaboxes/page-metaboxes.php:683
+#: ../includes/custom-metaboxes/page-metaboxes.php:695
+#: ../includes/custom-metaboxes/page-metaboxes.php:707
+#: ../includes/custom-metaboxes/page-metaboxes.php:754
+#: ../includes/custom-metaboxes/page-metaboxes.php:766
+#: ../includes/custom-metaboxes/page-metaboxes.php:778
+#: ../includes/custom-metaboxes/page-metaboxes.php:835
+#: ../includes/custom-metaboxes/page-metaboxes.php:847
+#: ../includes/custom-metaboxes/page-metaboxes.php:859
+#: ../includes/custom-metaboxes/page-metaboxes.php:871
+#: ../includes/custom-metaboxes/page-metaboxes.php:914
+#: ../includes/custom-metaboxes/page-metaboxes.php:926
+#: ../includes/custom-metaboxes/page-metaboxes.php:938
+#: ../includes/custom-metaboxes/page-metaboxes.php:950
+#: ../includes/custom-metaboxes/page-metaboxes.php:1016
+#: ../includes/custom-metaboxes/page-metaboxes.php:1028
+#: ../includes/custom-metaboxes/page-metaboxes.php:1040
+#: ../includes/custom-metaboxes/page-metaboxes.php:1052
+#: ../includes/custom-metaboxes/page-metaboxes.php:1111
+#: ../includes/custom-metaboxes/page-metaboxes.php:1123
+#: ../includes/custom-metaboxes/page-metaboxes.php:1135
+#: ../includes/custom-metaboxes/page-metaboxes.php:1147
+#: ../includes/theme-options.php:100
+msgid "Yes"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:326
+#: ../includes/custom-metaboxes/page-metaboxes.php:338
+#: ../includes/custom-metaboxes/page-metaboxes.php:350
+#: ../includes/custom-metaboxes/page-metaboxes.php:362
+#: ../includes/custom-metaboxes/page-metaboxes.php:415
+#: ../includes/custom-metaboxes/page-metaboxes.php:427
+#: ../includes/custom-metaboxes/page-metaboxes.php:439
+#: ../includes/custom-metaboxes/page-metaboxes.php:451
+#: ../includes/custom-metaboxes/page-metaboxes.php:498
+#: ../includes/custom-metaboxes/page-metaboxes.php:510
+#: ../includes/custom-metaboxes/page-metaboxes.php:522
+#: ../includes/custom-metaboxes/page-metaboxes.php:534
+#: ../includes/custom-metaboxes/page-metaboxes.php:555
+#: ../includes/custom-metaboxes/page-metaboxes.php:573
+#: ../includes/custom-metaboxes/page-metaboxes.php:585
+#: ../includes/custom-metaboxes/page-metaboxes.php:597
+#: ../includes/custom-metaboxes/page-metaboxes.php:609
+#: ../includes/custom-metaboxes/page-metaboxes.php:672
+#: ../includes/custom-metaboxes/page-metaboxes.php:684
+#: ../includes/custom-metaboxes/page-metaboxes.php:696
+#: ../includes/custom-metaboxes/page-metaboxes.php:708
+#: ../includes/custom-metaboxes/page-metaboxes.php:755
+#: ../includes/custom-metaboxes/page-metaboxes.php:767
+#: ../includes/custom-metaboxes/page-metaboxes.php:779
+#: ../includes/custom-metaboxes/page-metaboxes.php:836
+#: ../includes/custom-metaboxes/page-metaboxes.php:848
+#: ../includes/custom-metaboxes/page-metaboxes.php:860
+#: ../includes/custom-metaboxes/page-metaboxes.php:872
+#: ../includes/custom-metaboxes/page-metaboxes.php:915
+#: ../includes/custom-metaboxes/page-metaboxes.php:927
+#: ../includes/custom-metaboxes/page-metaboxes.php:939
+#: ../includes/custom-metaboxes/page-metaboxes.php:951
+#: ../includes/custom-metaboxes/page-metaboxes.php:1017
+#: ../includes/custom-metaboxes/page-metaboxes.php:1029
+#: ../includes/custom-metaboxes/page-metaboxes.php:1041
+#: ../includes/custom-metaboxes/page-metaboxes.php:1053
+#: ../includes/custom-metaboxes/page-metaboxes.php:1112
+#: ../includes/custom-metaboxes/page-metaboxes.php:1124
+#: ../includes/custom-metaboxes/page-metaboxes.php:1136
+#: ../includes/custom-metaboxes/page-metaboxes.php:1148
+#: ../includes/theme-options.php:104
+msgid "No"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:332
+#: ../includes/custom-metaboxes/page-metaboxes.php:421
+#: ../includes/custom-metaboxes/page-metaboxes.php:504
+#: ../includes/custom-metaboxes/page-metaboxes.php:579
+#: ../includes/custom-metaboxes/page-metaboxes.php:678
+#: ../includes/custom-metaboxes/page-metaboxes.php:749
+#: ../includes/custom-metaboxes/page-metaboxes.php:842
+#: ../includes/custom-metaboxes/page-metaboxes.php:921
+#: ../includes/custom-metaboxes/page-metaboxes.php:1023
+#: ../includes/custom-metaboxes/page-metaboxes.php:1118
+msgid "Show Social Icons"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:333
+#: ../includes/custom-metaboxes/page-metaboxes.php:422
+#: ../includes/custom-metaboxes/page-metaboxes.php:505
+#: ../includes/custom-metaboxes/page-metaboxes.php:580
+#: ../includes/custom-metaboxes/page-metaboxes.php:679
+#: ../includes/custom-metaboxes/page-metaboxes.php:750
+#: ../includes/custom-metaboxes/page-metaboxes.php:843
+#: ../includes/custom-metaboxes/page-metaboxes.php:922
+#: ../includes/custom-metaboxes/page-metaboxes.php:1024
+#: ../includes/custom-metaboxes/page-metaboxes.php:1119
+msgid "Check this to show Social Icons."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:344
+#: ../includes/custom-metaboxes/page-metaboxes.php:433
+#: ../includes/custom-metaboxes/page-metaboxes.php:516
+#: ../includes/custom-metaboxes/page-metaboxes.php:591
+#: ../includes/custom-metaboxes/page-metaboxes.php:690
+#: ../includes/custom-metaboxes/page-metaboxes.php:761
+#: ../includes/custom-metaboxes/page-metaboxes.php:854
+#: ../includes/custom-metaboxes/page-metaboxes.php:933
+#: ../includes/custom-metaboxes/page-metaboxes.php:1035
+#: ../includes/custom-metaboxes/page-metaboxes.php:1130
+msgid "Post content"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:345
+#: ../includes/custom-metaboxes/page-metaboxes.php:434
+#: ../includes/custom-metaboxes/page-metaboxes.php:517
+#: ../includes/custom-metaboxes/page-metaboxes.php:592
+#: ../includes/custom-metaboxes/page-metaboxes.php:691
+#: ../includes/custom-metaboxes/page-metaboxes.php:762
+#: ../includes/custom-metaboxes/page-metaboxes.php:855
+#: ../includes/custom-metaboxes/page-metaboxes.php:934
+#: ../includes/custom-metaboxes/page-metaboxes.php:1036
+#: ../includes/custom-metaboxes/page-metaboxes.php:1131
+msgid "Check this to show post content."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:356
+#: ../includes/custom-metaboxes/page-metaboxes.php:445
+#: ../includes/custom-metaboxes/page-metaboxes.php:528
+#: ../includes/custom-metaboxes/page-metaboxes.php:603
+#: ../includes/custom-metaboxes/page-metaboxes.php:702
+#: ../includes/custom-metaboxes/page-metaboxes.php:773
+#: ../includes/custom-metaboxes/page-metaboxes.php:866
+#: ../includes/custom-metaboxes/page-metaboxes.php:945
+#: ../includes/custom-metaboxes/page-metaboxes.php:1047
+#: ../includes/custom-metaboxes/page-metaboxes.php:1142
+msgid "Post content heading"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:357
+#: ../includes/custom-metaboxes/page-metaboxes.php:446
+#: ../includes/custom-metaboxes/page-metaboxes.php:529
+#: ../includes/custom-metaboxes/page-metaboxes.php:604
+#: ../includes/custom-metaboxes/page-metaboxes.php:703
+#: ../includes/custom-metaboxes/page-metaboxes.php:774
+#: ../includes/custom-metaboxes/page-metaboxes.php:867
+#: ../includes/custom-metaboxes/page-metaboxes.php:946
+#: ../includes/custom-metaboxes/page-metaboxes.php:1048
+#: ../includes/custom-metaboxes/page-metaboxes.php:1143
+msgid "Check this to show post content heading."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:373
+msgid "Quote Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:377
+msgid "The Quote"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:378
+msgid "Write your quote in this field."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:384
+msgid "The Author"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:385
+msgid "Enter the name of the author of this quote."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:390
+#: ../includes/custom-metaboxes/page-metaboxes.php:472
+#: ../includes/custom-metaboxes/page-metaboxes.php:735
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:391
+msgid "Choose the background color for this quote."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:396
+#: ../includes/custom-metaboxes/page-metaboxes.php:479
+#: ../includes/custom-metaboxes/page-metaboxes.php:742
+msgid "Background Opacity"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:397
+#: ../includes/custom-metaboxes/page-metaboxes.php:480
+#: ../includes/custom-metaboxes/page-metaboxes.php:743
+msgid "Choose the opacity of the background color."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:403
+#: ../includes/custom-metaboxes/page-metaboxes.php:486
+#: ../includes/custom-metaboxes/page-metaboxes.php:641
+#: ../includes/custom-metaboxes/page-metaboxes.php:660
+#: ../includes/custom-metaboxes/page-metaboxes.php:824
+#: ../includes/custom-metaboxes/page-metaboxes.php:986
+#: ../includes/custom-metaboxes/page-metaboxes.php:1005
+#: ../includes/custom-metaboxes/page-metaboxes.php:1100
+msgid "Divider"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:404
+#: ../includes/custom-metaboxes/page-metaboxes.php:487
+msgid "Divider."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:462
+msgid "Link Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:466
+msgid "The URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:467
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:473
+msgid "Choose the background color for this link."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:545
+msgid "Image Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:549
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:550
+msgid "Check this to enable the lightbox."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:561
+msgid "Enter URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:562
+msgid "Insert the url for the image."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:620
+#: ../includes/custom-metaboxes/page-metaboxes.php:965
+msgid "Audio Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:625
+#: ../includes/custom-metaboxes/page-metaboxes.php:970
+msgid ""
+"These settings enable you to embed audio in your posts. Note that for audio, "
+"you must supply both MP3 and OGG files to satisfy all browsers. For poster "
+"you can select a featured image."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:629
+#: ../includes/custom-metaboxes/page-metaboxes.php:974
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:630
+#: ../includes/custom-metaboxes/page-metaboxes.php:975
+msgid "The URL to the .mp3 audio file."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:635
+#: ../includes/custom-metaboxes/page-metaboxes.php:980
+msgid "OGA File URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:636
+#: ../includes/custom-metaboxes/page-metaboxes.php:981
+msgid "The URL to the .oga, .ogg audio file."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:642
+#: ../includes/custom-metaboxes/page-metaboxes.php:661
+#: ../includes/custom-metaboxes/page-metaboxes.php:825
+#: ../includes/custom-metaboxes/page-metaboxes.php:987
+#: ../includes/custom-metaboxes/page-metaboxes.php:1006
+#: ../includes/custom-metaboxes/page-metaboxes.php:1101
+msgid "divider."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:647
+#: ../includes/custom-metaboxes/page-metaboxes.php:992
+msgid "SoundCloud"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:648
+#: ../includes/custom-metaboxes/page-metaboxes.php:993
+msgid "Enter the url of the soundcloud audio."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:653
+#: ../includes/custom-metaboxes/page-metaboxes.php:998
+msgid "Color"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:654
+#: ../includes/custom-metaboxes/page-metaboxes.php:999
+msgid "Choose the color."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:719
+msgid "Status Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:723
+msgid "Style"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:724
+msgid "Select status style."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:728
+msgid "Normal"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:729
+msgid "Background"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:736
+msgid "Choose the background color for this status."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:790
+#: ../includes/custom-metaboxes/page-metaboxes.php:1066
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:795
+#: ../includes/custom-metaboxes/page-metaboxes.php:1071
+msgid ""
+"These settings enable you to embed videos into your posts. Note that for "
+"video, you must supply an M4V file to satisfy both HTML5 and Flash "
+"solutions. The optional OGV format is used to increase x-browser support for "
+"HTML5 browsers such as Firefox and Opera. For the poster, you can select a "
+"featured image."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:799
+#: ../includes/custom-metaboxes/page-metaboxes.php:1075
+msgid "M4V File URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:800
+#: ../includes/custom-metaboxes/page-metaboxes.php:1076
+msgid "The URL to the .m4v video file."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:805
+#: ../includes/custom-metaboxes/page-metaboxes.php:1081
+msgid "OGV File URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:806
+#: ../includes/custom-metaboxes/page-metaboxes.php:1082
+msgid "The URL to the .ogv video file."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:811
+#: ../includes/custom-metaboxes/page-metaboxes.php:1087
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:812
+#: ../includes/custom-metaboxes/page-metaboxes.php:1088
+msgid "The URL to the .webm video file."
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:817
+#: ../includes/custom-metaboxes/page-metaboxes.php:1093
+msgid "Embeded Code"
+msgstr ""
+
+#: ../includes/custom-metaboxes/page-metaboxes.php:818
+#: ../includes/custom-metaboxes/page-metaboxes.php:1094
+msgid "Select the preview image for this video."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:38
+msgid "Theme Setup"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:41
+#, php-format
+msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:42
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:43
+msgid "Disable this wizard"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:45
+msgid "Skip"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:46
+msgid "Next"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:47
+msgid "Start"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:48
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:52
+msgid "Import"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:54
+msgid "Later"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:57
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:59
+#, php-format
+msgid "%s is Activated"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:61
+msgid "Enter your license key to enable remote updates and theme support."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:62
+msgid "License key"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:63
+msgid "The theme is already registered, so you can go to the next step!"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:64
+msgid "Your theme is activated! Remote updates and theme support are enabled."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:65
+msgid "Need help?"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:68
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:69
+msgid "Hi. Welcome back"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:70
+msgid ""
+"This wizard will set up your theme, install plugins, and import content. It "
+"is optional & should take only a few minutes."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:71
+msgid ""
+"You may have already run this theme setup wizard. If you would like to "
+"proceed anyway, click on the \"Start\" button below."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:73
+msgid "Install Child Theme"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:74
+msgid "You're good to go!"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:75
+msgid ""
+"Let's build & activate a child theme so you may easily make theme changes."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:76
+msgid ""
+"Your child theme has already been installed and is now activated, if it "
+"wasn't already."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:77
+msgid "Learn about child themes"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:78
+msgid ""
+"Awesome. Your child theme has already been installed and is now activated."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:79
+msgid "Awesome. Your child theme has been created and is now activated."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:82
+msgid "You're up to speed!"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:83
+msgid ""
+"Let's install some essential WordPress plugins to get your site up to speed."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:84
+msgid ""
+"The required WordPress plugins are all installed and up to date. Press \"Next"
+"\" to continue the setup wizard."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:85 ../includes/demo-wizard-config.php:89
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:87
+msgid "Import Content"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:88
+msgid ""
+"Let's import content to your website, to help you get familiar with the "
+"theme."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:91
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:94
+#, php-format
+msgid "Your theme has been all set up. Enjoy your new theme by %s."
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:95
+msgid "Extras"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:96
+msgid "View your website"
+msgstr ""
+
+#: ../includes/demo-wizard-config.php:97
+msgid "Start Customizing"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:455
+msgid "Something went wrong. Please refresh the page and try again!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:601
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:606
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:715
+msgid "Welcome"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:722
+msgid "Child"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:728
+msgid "License"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:736
+msgid "Plugins"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:744
+#: ../includes/merlin/class-merlin.php:1998
+msgid "Content"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:750
+msgid "Ready"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:855
+msgid "The welcome step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:949
+msgid "The license activation step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1019
+msgid "The child theme installation step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1107
+msgid "req"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1147
+msgid "The plugin installation step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1231
+msgid "The content import step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1311
+msgid "The final step has been displayed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1388
+msgid "The existing child theme was activated"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1405
+msgid "The newly generated child theme was activated"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1426
+msgid ""
+"Yikes! The theme activation failed. Please try again or contact support."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1435
+msgid "Please add your license key before attempting to activate one."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1448
+msgid "The license activation was performed with the following results"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1494
+#: ../includes/merlin/class-merlin.php:1535
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1507
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1513
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1517
+msgid ""
+"This appears to be an invalid license key. Please try again or contact "
+"support."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1522
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1527
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1531
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1625
+msgid "The child theme functions.php content was generated"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1656
+msgid "The child theme style.css content was generated"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1690
+msgid ""
+"The child theme screenshot was copied to the child theme, with the following "
+"result"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1692
+msgid "The child theme screenshot was not generated, because of these results"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1721
+msgid "Activating"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1737
+msgid "Updating"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1753
+#: ../includes/merlin/class-merlin.php:1769
+#: ../includes/merlin/class-merlin.php:2001
+#: ../includes/merlin/class-merlin.php:2014
+#: ../includes/merlin/class-merlin.php:2027
+#: ../includes/merlin/class-merlin.php:2041
+#: ../includes/merlin/class-merlin.php:2054
+#: ../includes/merlin/class-merlin.php:2067
+#: ../includes/merlin/class-merlin.php:2080
+#: ../includes/merlin/class-merlin.php:2093
+#: ../includes/merlin/class-merlin.php:2140
+msgid "Installing"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1761
+msgid "A plugin with the following data will be processed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1773
+msgid "A plugin with the following data was processed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1782
+#: ../includes/merlin/class-merlin.php:2002
+#: ../includes/merlin/class-merlin.php:2015
+#: ../includes/merlin/class-merlin.php:2028
+#: ../includes/merlin/class-merlin.php:2042
+#: ../includes/merlin/class-merlin.php:2055
+#: ../includes/merlin/class-merlin.php:2068
+#: ../includes/merlin/class-merlin.php:2081
+#: ../includes/merlin/class-merlin.php:2094
+msgid "Success"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1805
+msgid ""
+"The content importer AJAX call failed to start, because of incorrect data"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1810
+msgid "Invalid content!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1821
+msgid "The content import AJAX call will be executed with this import data"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1863
+msgid "The content import AJAX call failed with this passed data"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1874
+msgid "Error"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1888
+msgid ""
+"The content importer AJAX call for retrieving total content import items "
+"failed to start, because of incorrect data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1893
+msgid "Invalid data!"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:1999
+msgid "Demo content data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2000
+#: ../includes/merlin/class-merlin.php:2013
+#: ../includes/merlin/class-merlin.php:2026
+#: ../includes/merlin/class-merlin.php:2040
+#: ../includes/merlin/class-merlin.php:2053
+#: ../includes/merlin/class-merlin.php:2066
+#: ../includes/merlin/class-merlin.php:2079
+#: ../includes/merlin/class-merlin.php:2092
+msgid "Pending"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2011
+msgid "Widgets"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2012
+msgid "Sample widgets data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2025
+msgid "Sample Revolution sliders data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2038
+msgid "Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2039
+msgid "Sample theme options data."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2051
+msgid "Redux Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2052
+msgid "Redux framework options."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2064
+msgid "Option Tree Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2065
+msgid "Option Tree framework options."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2077
+msgid "CPTUI Options"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2078
+msgid "CPTUI framework options."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2090
+msgid "After import setup"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2091
+msgid "After import setup."
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2120
+msgid "The revolution slider import was executed"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2161
+msgid "The home page was set"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2171
+msgid "The blog page was set"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2186
+msgid "The Hello world post status was set to draft"
+msgstr ""
+
+#: ../includes/merlin/class-merlin.php:2210
+msgid ""
+"This predefined demo import does not have the name parameter: "
+"import_file_name"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-cptui-importer.php:30
+msgid "The CPTUI Post Types data was imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-cptui-importer.php:38
+msgid "The CPTUI Taxonomies data was imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:30
+msgid "The customizer import has finished successfully"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:57
+#, php-format
+msgid "Error: The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:70
+msgid ""
+"Error: The customizer import file does not have any content in it. Please "
+"make sure to use the correct customizer import file."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:80
+msgid ""
+"Error: The customizer import file is not in a correct format. Please make "
+"sure to use the correct customizer import file."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-customizer-importer.php:86
+msgid ""
+"Error: The customizer import file is not suitable for current theme. You can "
+"only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-downloader.php:49
+msgid "The file was not able to save to disk, while trying to download it"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-downloader.php:66
+msgid "Missing URL for downloading a file!"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-downloader.php:84
+#, php-format
+msgid ""
+"An error occurred while fetching file from: %1$s%2$s%3$s!%4$sReason: %5$s - "
+"%6$s."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-option-tree-importer.php:37
+msgid "The Option Tree data was imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-redux-importer.php:32
+msgid "The Redux Framework data was imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-rev-importer.php:31
+msgid "The Slider data was imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:72
+msgid "Error: Widget import file could not be found."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:83
+msgid "Error: Widget import file does not have any content in it."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:105
+msgid ""
+"Error: Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:144
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:165
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:198
+msgid "Widget already exists"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:256
+msgid "Imported"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:260
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:266
+msgid "No Title"
+msgstr ""
+
+#: ../includes/merlin/includes/class-merlin-widget-importer.php:328
+msgid "No results for widget import!"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:55
+msgid ""
+"The XMLReader class is missing! Please install the XMLReader PHP extension "
+"on your server"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:68
+msgid "Could not open the XML file for parsing!"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:248
+msgid "Content import start error: "
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:280
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:173
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:291
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:364
+#, php-format
+msgid ""
+"This WXR file (version %s) is newer than the importer (version %s) and may "
+"not be supported. Please consider updating."
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/Importer.php:504
+msgid "New AJAX call!"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:135
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:514
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:577
+msgid "Invalid author mapping"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:678
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:770
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:780
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:858
+#, php-format
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:872
+#, php-format
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:904
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1822
+#, php-format
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:909
+#, php-format
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:949
+#, php-format
+msgid "Failed to import term: %s - %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1094
+msgid "Invalid file type"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1593
+#, php-format
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1614
+#, php-format
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1618
+#, php-format
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1783
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1827
+#, php-format
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1886
+#, php-format
+msgid "Failed to add metakey: %s, metavalue: %s to term_id: %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1895
+#, php-format
+msgid "Meta for term_id %d : %s => %s ; successfully added!"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1947
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1969
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:1975
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2000
+#, php-format
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2013
+#, php-format
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2018
+#, php-format
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2032
+#, php-format
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2037
+#, php-format
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2063
+#, php-format
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2074
+#, php-format
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2119
+#, php-format
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2124
+#, php-format
+msgid ""
+"Post %d was imported with object \"%d\" of type \"%s\", but could not be "
+"found"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2146
+#, php-format
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2150
+#, php-format
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2164
+#, php-format
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2168
+#, php-format
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2185
+#, php-format
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2216
+#, php-format
+msgid "Faulty term_id provided in terms-to-be-remapped array %s"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2226
+#, php-format
+msgid "No taxonomy provided in terms-to-be-remapped array for term #%d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2236
+#, php-format
+msgid "No parent_slug identified in remapping-array for term: %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2244
+#, php-format
+msgid "The term(%d)\"s parent_slug (%s) is not found in the remapping-array."
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2258
+#, php-format
+msgid "No data returned by get_term_by for term_id #%d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2277
+#, php-format
+msgid "Could not update \"%s\" (term #%d) with mapped data"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2287
+#, php-format
+msgid "Term %d was successfully updated with parent %d"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2322
+msgid "Starting remapping of featured images"
+msgstr ""
+
+#: ../includes/merlin/vendor/proteusthemes/wp-content-importer-v2/src/WXRImporter.php:2331
+#, php-format
+msgid "Remapping featured image ID %d to new ID %d for post ID %d"
+msgstr ""
+
+#: ../includes/template-tags.php:26
+msgid " Older posts"
+msgstr ""
+
+#: ../includes/template-tags.php:30
+msgid "Newer posts "
+msgstr ""
+
+#: ../includes/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i> %title "
+msgstr ""
+
+#: ../includes/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-angle-right\"></i> "
+msgstr ""
+
+#: ../includes/theme-options.php:28
+msgid "Header Navigation"
+msgstr ""
+
+#: ../includes/theme-options.php:32
+msgid "Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:36 ../includes/theme-options.php:770
+msgid "Google Fonts"
+msgstr ""
+
+#: ../includes/theme-options.php:40 ../includes/theme-options.php:789
+msgid "Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:44
+msgid "Theme Color"
+msgstr ""
+
+#: ../includes/theme-options.php:48
+msgid "Theme sidebars"
+msgstr ""
+
+#: ../includes/theme-options.php:52
+msgid "Blog page header"
+msgstr ""
+
+#: ../includes/theme-options.php:56
+msgid "Blog Post Options"
+msgstr ""
+
+#: ../includes/theme-options.php:60
+msgid "Single Post Page"
+msgstr ""
+
+#: ../includes/theme-options.php:64
+msgid "Sidebar Options"
+msgstr ""
+
+#: ../includes/theme-options.php:68
+msgid "Footer"
+msgstr ""
+
+#: ../includes/theme-options.php:72
+msgid "Footer Colors"
+msgstr ""
+
+#: ../includes/theme-options.php:76
+msgid "Footer links"
+msgstr ""
+
+#: ../includes/theme-options.php:80
+msgid "Footer social"
+msgstr ""
+
+#: ../includes/theme-options.php:84
+msgid "Additional Css"
+msgstr ""
+
+#: ../includes/theme-options.php:91
+msgid "Use new header?"
+msgstr ""
+
+#: ../includes/theme-options.php:92 ../includes/theme-options.php:668
+msgid "Use this logo type."
+msgstr ""
+
+#: ../includes/theme-options.php:110
+msgid "Header menu button color"
+msgstr ""
+
+#: ../includes/theme-options.php:111 ../includes/theme-options.php:120
+#: ../includes/theme-options.php:129 ../includes/theme-options.php:848
+#: ../includes/theme-options.php:856 ../includes/theme-options.php:957
+#: ../includes/theme-options.php:965 ../includes/theme-options.php:973
+#: ../includes/theme-options.php:981 ../includes/theme-options.php:991
+#: ../includes/theme-options.php:999 ../includes/theme-options.php:1006
+#: ../includes/theme-options.php:1013 ../includes/theme-options.php:1020
+#: ../includes/theme-options.php:1125 ../includes/theme-options.php:1133
+#: ../includes/theme-options.php:1141 ../includes/theme-options.php:1149
+#: ../includes/theme-options.php:1159 ../includes/theme-options.php:1166
+#: ../includes/theme-options.php:1173 ../includes/theme-options.php:1180
+#: ../includes/theme-options.php:1187 ../includes/theme-options.php:1194
+#: ../includes/theme-options.php:1201 ../includes/theme-options.php:1208
+#: ../includes/theme-options.php:1320 ../includes/theme-options.php:1327
+#: ../includes/theme-options.php:1334 ../includes/theme-options.php:1341
+#: ../includes/theme-options.php:1394 ../includes/theme-options.php:1401
+msgid "Please select color"
+msgstr ""
+
+#: ../includes/theme-options.php:119
+msgid "Theme right slider menu background color"
+msgstr ""
+
+#: ../includes/theme-options.php:128
+msgid "Theme right slider menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:137 ../includes/theme-options.php:138
+msgid "Navigation menu item font-size"
+msgstr ""
+
+#: ../includes/theme-options.php:148
+msgid "General"
+msgstr ""
+
+#: ../includes/theme-options.php:154
+msgid "Header type"
+msgstr ""
+
+#: ../includes/theme-options.php:155
+msgid "Select header navigation type"
+msgstr ""
+
+#: ../includes/theme-options.php:164
+msgid "navbar-static"
+msgstr ""
+
+#: ../includes/theme-options.php:168
+msgid "navbar-sticky"
+msgstr ""
+
+#: ../includes/theme-options.php:172
+msgid "navbar-scrollspy"
+msgstr ""
+
+#: ../includes/theme-options.php:176
+msgid "navbar-fixed-white"
+msgstr ""
+
+#: ../includes/theme-options.php:180
+msgid "navbar-fixed-dark"
+msgstr ""
+
+#: ../includes/theme-options.php:184
+msgid "navbar-fixed-transparent"
+msgstr ""
+
+#: ../includes/theme-options.php:188
+msgid "navbar-fixed-transparent-dark"
+msgstr ""
+
+#: ../includes/theme-options.php:192
+msgid "logo-center"
+msgstr ""
+
+#: ../includes/theme-options.php:196
+msgid "logo-center-two"
+msgstr ""
+
+#: ../includes/theme-options.php:200
+msgid "logo-top"
+msgstr ""
+
+#: ../includes/theme-options.php:204
+msgid "navbar-full"
+msgstr ""
+
+#: ../includes/theme-options.php:208
+msgid "navbar-sidebar"
+msgstr ""
+
+#: ../includes/theme-options.php:214
+msgid "Menu alignment"
+msgstr ""
+
+#: ../includes/theme-options.php:215
+msgid "Select header menu alignment."
+msgstr ""
+
+#: ../includes/theme-options.php:224
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:236
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:784
+msgid "right"
+msgstr ""
+
+#: ../includes/theme-options.php:228
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:235
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:785
+msgid "left"
+msgstr ""
+
+#: ../includes/theme-options.php:232
+msgid "center"
+msgstr ""
+
+#: ../includes/theme-options.php:238
+msgid "Sticky logo image"
+msgstr ""
+
+#: ../includes/theme-options.php:239
+msgid "Upload your sticky logo image"
+msgstr ""
+
+#: ../includes/theme-options.php:246
+msgid "Sticky logo dimension"
+msgstr ""
+
+#: ../includes/theme-options.php:247
+msgid "Set sticky logo width and height properties."
+msgstr ""
+
+#: ../includes/theme-options.php:255
+msgid "Sticky logo padding"
+msgstr ""
+
+#: ../includes/theme-options.php:256
+msgid "You can use this option for logo padding top with keyboard arrows"
+msgstr ""
+
+#: ../includes/theme-options.php:264
+msgid "Menu item typography"
+msgstr ""
+
+#: ../includes/theme-options.php:265
+msgid "You can export your style to the menu item with these properties"
+msgstr ""
+
+#: ../includes/theme-options.php:273
+msgid "Menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:274
+msgid "Set your custom hover color for the menu item."
+msgstr ""
+
+#: ../includes/theme-options.php:282
+msgid "Header background color"
+msgstr ""
+
+#: ../includes/theme-options.php:283
+msgid "Set your custom color for the header."
+msgstr ""
+
+#: ../includes/theme-options.php:291
+msgid "Sticky header background color"
+msgstr ""
+
+#: ../includes/theme-options.php:292
+msgid "Set your custom color for the sticky header."
+msgstr ""
+
+#: ../includes/theme-options.php:300
+msgid "Sticky menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:301 ../includes/theme-options.php:310
+msgid "Set your custom hover color for the sticky menu item."
+msgstr ""
+
+#: ../includes/theme-options.php:309
+msgid "Sticky menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:319
+msgid "Dropdown Menu"
+msgstr ""
+
+#: ../includes/theme-options.php:325
+msgid "Dropdown submenu animation in"
+msgstr ""
+
+#: ../includes/theme-options.php:326 ../includes/theme-options.php:382
+msgid "Select animation for dropdown menu."
+msgstr ""
+
+#: ../includes/theme-options.php:335 ../includes/theme-options.php:391
+msgid "No animation"
+msgstr ""
+
+#: ../includes/theme-options.php:339
+msgid "fadeIn"
+msgstr ""
+
+#: ../includes/theme-options.php:343
+msgid "fadeInUp"
+msgstr ""
+
+#: ../includes/theme-options.php:347
+msgid "fadeInDown"
+msgstr ""
+
+#: ../includes/theme-options.php:351
+msgid "fadeInLeft"
+msgstr ""
+
+#: ../includes/theme-options.php:355
+msgid "fadeInRight"
+msgstr ""
+
+#: ../includes/theme-options.php:359
+msgid "slideIn"
+msgstr ""
+
+#: ../includes/theme-options.php:363
+msgid "slideInUp"
+msgstr ""
+
+#: ../includes/theme-options.php:367
+msgid "slideInDown"
+msgstr ""
+
+#: ../includes/theme-options.php:371
+msgid "zoomIn"
+msgstr ""
+
+#: ../includes/theme-options.php:375
+msgid "rotateIn"
+msgstr ""
+
+#: ../includes/theme-options.php:381
+msgid "Dropdown submenu animation out"
+msgstr ""
+
+#: ../includes/theme-options.php:395
+msgid "fadeOut"
+msgstr ""
+
+#: ../includes/theme-options.php:399
+msgid "fadeOutUp"
+msgstr ""
+
+#: ../includes/theme-options.php:403
+msgid "fadeOutDown"
+msgstr ""
+
+#: ../includes/theme-options.php:407
+msgid "fadeOutLeft"
+msgstr ""
+
+#: ../includes/theme-options.php:411
+msgid "fadeOutRight"
+msgstr ""
+
+#: ../includes/theme-options.php:415
+msgid "slideOut"
+msgstr ""
+
+#: ../includes/theme-options.php:419
+msgid "slideOutUp"
+msgstr ""
+
+#: ../includes/theme-options.php:423
+msgid "slideOutDown"
+msgstr ""
+
+#: ../includes/theme-options.php:427
+msgid "zoomOut"
+msgstr ""
+
+#: ../includes/theme-options.php:431
+msgid "rotateOut"
+msgstr ""
+
+#: ../includes/theme-options.php:437
+msgid "Dropdown menu item typography"
+msgstr ""
+
+#: ../includes/theme-options.php:438
+msgid ""
+"You can export your style to the dropdown menu item with these properties"
+msgstr ""
+
+#: ../includes/theme-options.php:446
+msgid "Dropdown menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:447
+msgid "Set your custom hover color for the dropdown menu item."
+msgstr ""
+
+#: ../includes/theme-options.php:455
+msgid "Dropdown menu background color"
+msgstr ""
+
+#: ../includes/theme-options.php:456
+msgid "Set your custom hover color for the dropdown background."
+msgstr ""
+
+#: ../includes/theme-options.php:465
+msgid "Header Attribute"
+msgstr ""
+
+#: ../includes/theme-options.php:471
+msgid "Header search visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:472
+#, php-format
+msgid "Please choose header search visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:481
+msgid "Search icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:482
+msgid "Set your custom color for the header search icon"
+msgstr ""
+
+#: ../includes/theme-options.php:490
+msgid "Search area background color"
+msgstr ""
+
+#: ../includes/theme-options.php:491
+msgid "Set your custom color for the header search area background"
+msgstr ""
+
+#: ../includes/theme-options.php:499
+msgid "Search area text and close color"
+msgstr ""
+
+#: ../includes/theme-options.php:500
+msgid "Set your custom color for the header search area text and close icon"
+msgstr ""
+
+#: ../includes/theme-options.php:508
+msgid "Header sidebar menu widget area visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:509
+msgid ""
+"Please add widgets by following the <b>Dashboard > Appearance > Widgets > "
+"Header Sidebar Menu</b>."
+msgstr ""
+
+#: ../includes/theme-options.php:518
+msgid "Header sidebar menu toggle button color"
+msgstr ""
+
+#: ../includes/theme-options.php:519
+msgid "Set your custom color for the sidebar menu toggle button."
+msgstr ""
+
+#: ../includes/theme-options.php:527
+msgid "Header sidebar menu background color"
+msgstr ""
+
+#: ../includes/theme-options.php:528
+msgid "Set your custom color for the sidebar menu background."
+msgstr ""
+
+#: ../includes/theme-options.php:536
+msgid "Header sidebar menu widget title color"
+msgstr ""
+
+#: ../includes/theme-options.php:537
+msgid "Set your custom color for the sidebar menu widget title."
+msgstr ""
+
+#: ../includes/theme-options.php:545
+msgid "Header sidebar menu widget link color"
+msgstr ""
+
+#: ../includes/theme-options.php:546
+msgid "Set your custom color for the sidebar menu widget link."
+msgstr ""
+
+#: ../includes/theme-options.php:554
+msgid "Header sidebar menu widget link hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:555
+msgid "Set your custom hover color for the sidebar menu widget link."
+msgstr ""
+
+#: ../includes/theme-options.php:564
+msgid "Header social icons"
+msgstr ""
+
+#: ../includes/theme-options.php:565
+msgid "Add social icons to header."
+msgstr ""
+
+#: ../includes/theme-options.php:572 ../includes/theme-options.php:1416
+msgid "Social icon name"
+msgstr ""
+
+#: ../includes/theme-options.php:573
+msgid "Enter fontawesome social icon name"
+msgstr ""
+
+#: ../includes/theme-options.php:578 ../includes/theme-options.php:1379
+#: ../includes/theme-options.php:1422
+msgid "Link"
+msgstr ""
+
+#: ../includes/theme-options.php:579
+msgid "Enter fontawesome social share link"
+msgstr ""
+
+#: ../includes/theme-options.php:586
+msgid "Social icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:587
+msgid "Set your custom color for the header social icon"
+msgstr ""
+
+#: ../includes/theme-options.php:595
+msgid "Hover social icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:596
+msgid "Set your custom hover color for the header social icon"
+msgstr ""
+
+#: ../includes/theme-options.php:605
+msgid "Back to Top"
+msgstr ""
+
+#: ../includes/theme-options.php:611
+msgid "Back to top button visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:612
+#, php-format
+msgid "Please choose back to top button visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:621
+msgid "Button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:622
+msgid "You can change back to top button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:630
+msgid "Hover background color"
+msgstr ""
+
+#: ../includes/theme-options.php:631
+msgid "You can change hover background color for the back to top button"
+msgstr ""
+
+#: ../includes/theme-options.php:639
+msgid "Button icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:640
+msgid "You can change color for the back to top button icon."
+msgstr ""
+
+#: ../includes/theme-options.php:648
+msgid "Hover button icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:649
+msgid "You can change hover color for the back to top button icon."
+msgstr ""
+
+#: ../includes/theme-options.php:658
+msgid "Logo visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:659 ../includes/theme-options.php:931
+#, php-format
+msgid "Please choose header logo visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:667
+msgid "Logo Type"
+msgstr ""
+
+#: ../includes/theme-options.php:677
+msgid "Select Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:681 ../includes/theme-options.php:691
+#: ../includes/theme-options.php:692
+msgid "Text Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:685
+msgid "Image logo"
+msgstr ""
+
+#: ../includes/theme-options.php:700
+msgid "Static text logo typography"
+msgstr ""
+
+#: ../includes/theme-options.php:701
+msgid "You can export your style to the static text logo with these properties"
+msgstr ""
+
+#: ../includes/theme-options.php:709 ../includes/theme-options.php:710
+msgid "Upload logo image"
+msgstr ""
+
+#: ../includes/theme-options.php:717
+msgid "Logo height"
+msgstr ""
+
+#: ../includes/theme-options.php:718
+msgid "You can use this option for logo height with keyboard arrows"
+msgstr ""
+
+#: ../includes/theme-options.php:728
+msgid "Header logo width"
+msgstr ""
+
+#: ../includes/theme-options.php:729
+msgid "You can use this option for header logo width with keyboard arrows"
+msgstr ""
+
+#: ../includes/theme-options.php:739
+msgid "Logo dimension"
+msgstr ""
+
+#: ../includes/theme-options.php:740
+msgid "Set logo width and height properties."
+msgstr ""
+
+#: ../includes/theme-options.php:748
+msgid "Logo margin"
+msgstr ""
+
+#: ../includes/theme-options.php:749 ../includes/theme-options.php:760
+msgid "You can use this option for logo margin top with keyboard arrows"
+msgstr ""
+
+#: ../includes/theme-options.php:759
+msgid "Logo padding"
+msgstr ""
+
+#: ../includes/theme-options.php:771
+msgid ""
+"Add Google Font and after the save settings follow these steps Dashboard > "
+"Appearance > Theme Options > Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:778
+msgid "Google Webfonts API for Theme Options fonts"
+msgstr ""
+
+#: ../includes/theme-options.php:779
+msgid ""
+"Enter your API, more details here: https://www.youtube.com/watch?"
+"v=3OT9tH141mc "
+msgstr ""
+
+#: ../includes/theme-options.php:790 ../includes/theme-options.php:798
+#: ../includes/theme-options.php:806 ../includes/theme-options.php:814
+#: ../includes/theme-options.php:822 ../includes/theme-options.php:830
+#: ../includes/theme-options.php:838
+msgid ""
+"The Typography option type is for adding typography styles to your site."
+msgstr ""
+
+#: ../includes/theme-options.php:797
+msgid "Typography h1"
+msgstr ""
+
+#: ../includes/theme-options.php:805
+msgid "Typography h2"
+msgstr ""
+
+#: ../includes/theme-options.php:813
+msgid "Typography h3"
+msgstr ""
+
+#: ../includes/theme-options.php:821
+msgid "Typography h4"
+msgstr ""
+
+#: ../includes/theme-options.php:829
+msgid "Typography h5"
+msgstr ""
+
+#: ../includes/theme-options.php:837
+msgid "Typography h6"
+msgstr ""
+
+#: ../includes/theme-options.php:847
+msgid "Theme color"
+msgstr ""
+
+#: ../includes/theme-options.php:855
+msgid "Theme color for hover"
+msgstr ""
+
+#: ../includes/theme-options.php:865
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:866
+msgid "Please choose blog page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:874
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:875
+msgid "Please choose default page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:883
+msgid "Search page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:884
+msgid "Please choose search page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:892
+msgid "Blog single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:893
+msgid "Please choose post page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:901
+msgid "archive page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:902
+msgid "Please choose archive page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:910
+msgid "Shop single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:911
+msgid "Please choose Shop single page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:919
+msgid "Shop  page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:920
+msgid "Please choose shop  page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:930
+msgid "header logo visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:939
+msgid "header menu button visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:940
+#, php-format
+msgid "Please choose header menu button visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:948
+msgid "Blog pages header section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:949
+msgid "You can upload your image for parallax header"
+msgstr ""
+
+#: ../includes/theme-options.php:956
+msgid "Blog header background color"
+msgstr ""
+
+#: ../includes/theme-options.php:964
+msgid "Blog header menu button color"
+msgstr ""
+
+#: ../includes/theme-options.php:972
+msgid "Blog header menu button hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:980
+msgid "Blog header top menu link  color"
+msgstr ""
+
+#: ../includes/theme-options.php:990
+msgid "Theme blog post heading color"
+msgstr ""
+
+#: ../includes/theme-options.php:998
+msgid "Theme blog post social icon background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1005
+msgid "Theme blog post border bottom color"
+msgstr ""
+
+#: ../includes/theme-options.php:1012
+msgid "Theme blog post text color"
+msgstr ""
+
+#: ../includes/theme-options.php:1019
+msgid "Theme blog post link color"
+msgstr ""
+
+#: ../includes/theme-options.php:1029
+msgid "Post Share"
+msgstr ""
+
+#: ../includes/theme-options.php:1035
+msgid "All share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1036
+msgid ""
+"This is a general option. Disables or enables the all share icon from all "
+"posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1043
+msgid "Facebook share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1044
+msgid ""
+"This is a general option. Disables or enables the facebook share icon from "
+"all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1052
+msgid "Twitter share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1053
+msgid ""
+"This is a general option. Disables or enables the twitter share icon from "
+"all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1061
+msgid "Google plus share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1062
+msgid ""
+"This is a general option. Disables or enables the google plus share icon "
+"from all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1070
+msgid "Digg share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1071
+msgid ""
+"This is a general option. Disables or enables the digg share icon from all "
+"posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1079
+msgid "Reddit share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1080
+msgid ""
+"This is a general option. Disables or enables the reddit share icon from all "
+"posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1088
+msgid "Linkedin share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1089
+msgid ""
+"This is a general option. Disables or enables the linkedin share icon from "
+"all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1097
+msgid "Pinterest share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1098
+msgid ""
+"This is a general option. Disables or enables the pinterest share icon from "
+"all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1106
+msgid "Stumbleupon share icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1107
+msgid ""
+"This is a general option. Disables or enables the stumbleupon share icon "
+"from all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1115
+msgid "Mail icon visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1116
+msgid ""
+"This is a general option. Disables or enables the mail icon from all posts."
+msgstr ""
+
+#: ../includes/theme-options.php:1124
+msgid "Post share icon background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1132
+msgid "Post share icon background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:1140
+msgid "Post share icon font color"
+msgstr ""
+
+#: ../includes/theme-options.php:1148
+msgid "Post share icon font hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:1158
+msgid "Theme sidebar background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1165
+msgid "Theme sidebar border color"
+msgstr ""
+
+#: ../includes/theme-options.php:1172
+msgid "Theme sidebar widget heading color"
+msgstr ""
+
+#: ../includes/theme-options.php:1179
+msgid "Theme sidebar widget heading left border color"
+msgstr ""
+
+#: ../includes/theme-options.php:1186
+msgid "Theme sidebar widget link color"
+msgstr ""
+
+#: ../includes/theme-options.php:1193
+msgid "Theme sidebar widget link hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:1200
+msgid "Theme sidebar search widget input background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1207
+msgid "Theme sidebar search widget button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1214
+msgid "Theme sidebar border size "
+msgstr ""
+
+#: ../includes/theme-options.php:1215
+msgid "Please select size"
+msgstr ""
+
+#: ../includes/theme-options.php:1224
+msgid "Widget title margin"
+msgstr ""
+
+#: ../includes/theme-options.php:1225
+msgid "Enter widget title margin here."
+msgstr ""
+
+#: ../includes/theme-options.php:1232
+msgid "Widget title padding"
+msgstr ""
+
+#: ../includes/theme-options.php:1233
+msgid "Enter widget title margin padding."
+msgstr ""
+
+#: ../includes/theme-options.php:1242
+msgid "Widgetize footer section"
+msgstr ""
+
+#: ../includes/theme-options.php:1243
+#, php-format
+msgid "Please choose footer widgetize section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1251
+msgid "Footer powered section"
+msgstr ""
+
+#: ../includes/theme-options.php:1252
+#, php-format
+msgid "Please choose footer powered section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1260
+msgid "Footer contact section"
+msgstr ""
+
+#: ../includes/theme-options.php:1261
+#, php-format
+msgid "Please choose footer contact section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1269 ../includes/theme-options.php:1270
+msgid "Footer adress"
+msgstr ""
+
+#: ../includes/theme-options.php:1277 ../includes/theme-options.php:1278
+msgid "Footer adress 2.lines"
+msgstr ""
+
+#: ../includes/theme-options.php:1285 ../includes/theme-options.php:1286
+msgid "Footer mail"
+msgstr ""
+
+#: ../includes/theme-options.php:1293 ../includes/theme-options.php:1294
+msgid "Footer phone"
+msgstr ""
+
+#: ../includes/theme-options.php:1301 ../includes/theme-options.php:1302
+msgid "Footer description column"
+msgstr ""
+
+#: ../includes/theme-options.php:1309 ../includes/theme-options.php:1310
+msgid "Footer About"
+msgstr ""
+
+#: ../includes/theme-options.php:1319
+msgid "Copyright section background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1326
+msgid "Copyright section text color"
+msgstr ""
+
+#: ../includes/theme-options.php:1333
+msgid "Copyright section social icon background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1340
+msgid "Copyright section social icon text color"
+msgstr ""
+
+#: ../includes/theme-options.php:1349
+msgid "Footer Links Section"
+msgstr ""
+
+#: ../includes/theme-options.php:1350
+#, php-format
+msgid "Please choose footer links section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1358
+msgid "Section link align"
+msgstr ""
+
+#: ../includes/theme-options.php:1359
+msgid "Enter : center, left or right"
+msgstr ""
+
+#: ../includes/theme-options.php:1366
+msgid "Footer Links"
+msgstr ""
+
+#: ../includes/theme-options.php:1367
+msgid ""
+"Footer link section. Target documentation : http://www.w3schools.com/tags/"
+"att_a_target.asp"
+msgstr ""
+
+#: ../includes/theme-options.php:1373
+msgid "Link text"
+msgstr ""
+
+#: ../includes/theme-options.php:1374
+msgid "Enter link text"
+msgstr ""
+
+#: ../includes/theme-options.php:1380
+msgid "Enter link"
+msgstr ""
+
+#: ../includes/theme-options.php:1385
+msgid "Target"
+msgstr ""
+
+#: ../includes/theme-options.php:1386
+msgid "Enter target name."
+msgstr ""
+
+#: ../includes/theme-options.php:1393
+msgid "Links section background color"
+msgstr ""
+
+#: ../includes/theme-options.php:1400
+msgid "Links section links color"
+msgstr ""
+
+#: ../includes/theme-options.php:1409 ../includes/theme-options.php:1410
+msgid "Footer social icons"
+msgstr ""
+
+#: ../includes/theme-options.php:1417
+msgid "Enter font awesome social icon name"
+msgstr ""
+
+#: ../includes/theme-options.php:1423
+msgid "Enter font awesome social share link"
+msgstr ""
+
+#: ../includes/theme-options.php:1432
+msgid "Additional CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:1433
+msgid "You can add additional css"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:76
+msgid "1. Header"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:79
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:204
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:374
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:427
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:494
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:540
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:605
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:734
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:815
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:885
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:932
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:999
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1105
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1186
+msgid "Holywood"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:80
+msgid "Frontpage header hero section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:86
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:217
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:386
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:439
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:506
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:897
+msgid "Heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:88
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:219
+msgid "Add your header heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:93
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:392
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:512
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:950
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1017
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1123
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1205
+msgid "description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:95
+msgid "Add your description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:100
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:281
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:399
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:453
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:574
+msgid "button left url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:102
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:283
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:401
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:455
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:576
+msgid "Add your button left url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:107
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:288
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:406
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:460
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:581
+msgid "button left text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:109
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:290
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:408
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:462
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:583
+msgid "Add your button left text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:114
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:295
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:466
+msgid "button right url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:116
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:297
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:468
+msgid "Add your button right url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:121
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:302
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:473
+msgid "button right text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:123
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:304
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:475
+msgid "Add your button right text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:128
+msgid "scroll down link"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:130
+msgid "Add your scroll down link for down arrow button. Example : #services"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:136
+msgid "overlay"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:139
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:234
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:783
+msgid "select layout type"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:140
+msgid "show"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:141
+msgid "hide"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:143
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:238
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1219
+msgid "Select type"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:148
+msgid "Logo 1x"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:150
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:157
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:775
+msgid "Add logo image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:155
+msgid "Logo 2x"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:162
+msgid "Logo url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:164
+msgid "Add logo url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:169
+msgid "Right section slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:171
+msgid "You can add before a slogan button"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:176
+msgid "target url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:178
+msgid "You can add a button url for find a section in the this page"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:183
+msgid "subscribe & any button text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:185
+msgid "You can add a button text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:201
+msgid "2. Product"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:206
+msgid "Left / right product showcase section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:211
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:380
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:433
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:500
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:546
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:891
+msgid "section id"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:213
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:382
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:435
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:502
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:548
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:893
+msgid "Add your section id for your custom colors or leave blank"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:224
+msgid "You can add any content. Default content is text blocks"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:226
+msgid "Column content area"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:231
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:780
+msgid "image position"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:243
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:773
+msgid "image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:245
+msgid "Add image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:250
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1051
+msgid "Column list items"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:254
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:257
+msgid "Planing"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:263
+msgid "Price List"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:265
+msgid "Enter title for list item."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:270
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1071
+msgid "Icon name"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:272
+msgid "Enter icon name for list item."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:309
+msgid "section background color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:311
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:318
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:325
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:332
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:339
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:346
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:353
+msgid "select color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:316
+msgid "Right button text color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:323
+msgid "Right button border color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:330
+msgid "Right button background color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:337
+msgid "Left button text color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:344
+msgid "Left button border color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:351
+msgid "Left button background color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:370
+msgid "3. Parallax"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:375
+msgid "Frontpage parallax section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:388
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:441
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:508
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:899
+msgid "Add your  heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:394
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:514
+msgid "Add your  description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:423
+msgid "5. Parallax"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:428
+msgid "Frontpage parallax two section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:445
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:518
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:909
+msgid "Text area"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:447
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:520
+msgid "Add your content"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:490
+msgid "6. Subscribe"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:495
+msgid "Frontpage subscribe section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:536
+msgid "7. Promo"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:541
+msgid "Frontpage promo section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:552
+msgid "first text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:554
+msgid "Add your  first text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:559
+msgid "second text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:561
+msgid "Add your  second text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:566
+msgid "third text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:568
+msgid "Add your  third text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:598
+msgid "4. Icon Boxes"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:606
+msgid "Frontpage Icon Boxes section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:610
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:740
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:938
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1005
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1111
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1193
+msgid "Section id"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:612
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:742
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:940
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1007
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1113
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1195
+msgid ""
+"Add Your Section id for scroll. If you use with multiple page for onepage "
+"write number like one, two , three"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:616
+msgid "Section heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:618
+msgid "Add Your Section heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:622
+msgid "Section slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:624
+msgid "Add Your Section description/slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:631
+msgid "Icon Boxes Item"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:639
+msgid "Box item id"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:641
+msgid "Add different id for each boxes to obtain different colors "
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:647
+msgid "Add icon?"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:648
+msgid "Add icon next to section title."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:652
+msgid "Icon"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:663
+msgid "Select icon from library."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:668
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:758
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:944
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1011
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1117
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1199
+msgid "heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:670
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:760
+msgid "Add heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:675
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:765
+msgid "Description Area"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:677
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:952
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1019
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1125
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1207
+msgid "Add Your description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:682
+msgid "Box background color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:684
+msgid "select box background color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:689
+msgid "Box icon color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:691
+msgid "select box icon color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:696
+msgid "Box heading color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:698
+msgid "select box heading color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:703
+msgid "Box description text color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:705
+msgid "select box description text color"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:727
+msgid "8. Photos"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:735
+msgid "Frontpage Photos section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:749
+msgid "Photos Item"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:767
+msgid "Add Your description / content"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:787
+msgid "Select image position"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:811
+msgid "9. Price Table"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:816
+msgid "Frontpage price table section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:821
+msgid "Title"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:823
+msgid "Add Your Title"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:827
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:903
+msgid "slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:829
+msgid "Add Your slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:833
+msgid "Section ID"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:835
+msgid "Add Your Section ID"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:841
+msgid "Post Count"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:843
+msgid "You can control with number your price tables."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:848
+msgid "Category"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:850
+msgid "Enter Price table category or write all"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:855
+msgid "order"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:857
+msgid "Enter Price table order. DESC or ASC"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:862
+msgid "orderby"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:864
+msgid "Enter Price table orderby. Default is : date"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:881
+msgid "10. Join"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:886
+msgid "Frontpage join section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:905
+msgid "Add your  slogan"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:911
+msgid "Add your content / contact form shortcode"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:925
+msgid "11. Clients"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:933
+msgid "Frontpage clients section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:946
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1013
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1119
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1201
+msgid "Add Your heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:959
+msgid "Clients images"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:968
+msgid "Images"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:970
+msgid "Add Your images. Maximum 4 item "
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:992
+msgid "12. Team"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1000
+msgid "Frontpage team section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1026
+msgid "Team member"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1033
+msgid "team member image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1035
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1143
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1237
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1266
+msgid "Add Your image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1039
+msgid "team section offset class for centered items."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1041
+msgid ""
+"Just add an offset class for first team item. Tutorial here : https://www."
+"youtube.com/watch?v=hmYeKjhIVf8"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1045
+msgid "team member  name"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1047
+msgid "Add team member  name"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1055
+msgid "#"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1058
+msgid "facebook"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1064
+msgid "Social account url"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1066
+msgid "Enter Social account url."
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1073
+msgid ""
+"Enter icon name for Social account. facebook, twitter, dribbble and more"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1098
+msgid "13. Projects"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1106
+msgid "Frontpage project section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1132
+msgid "Projects item"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1141
+msgid "project image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1148
+msgid "project heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1150
+msgid "Add project heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1156
+msgid "project description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1158
+msgid "Add project description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1180
+msgid "14. Testimonials"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1187
+msgid "Frontpage testimonials section"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1212
+msgid "heading type"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1215
+msgid "select heading type"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1216
+msgid "icon"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1217
+msgid "text"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1226
+msgid "Testimonials item"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1235
+msgid "testimonials first image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1242
+msgid "testimonials first name"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1244
+msgid "Add testimonials first heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1250
+msgid "testimonials first description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1252
+msgid "Add testimonials first description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1257
+msgid "testimonials first position"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1259
+msgid "Add testimonials first position"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1264
+msgid "testimonials second image"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1271
+msgid "testimonials second name"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1273
+msgid "Add testimonials second heading"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1279
+msgid "testimonials second description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1281
+msgid "Add testimonials second description"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1286
+msgid "testimonials second position"
+msgstr ""
+
+#: ../includes/visualcomposer/ninetheme_shortcodes.php:1288
+msgid "Add testimonials second position"
+msgstr ""
+
+#: ../includes/woocommerce/woocommerce.php:94
+msgid "Buy product"
+msgstr ""
+
+#: ../includes/woocommerce/woocommerce.php:97
+msgid "View products"
+msgstr ""
+
+#: ../includes/woocommerce/woocommerce.php:106
+msgid "Read more"
+msgstr ""
+
+#: ../includes/woocommerce/woocommerce.php:139
+msgid "Select options"
+msgstr ""
+
+#: ../post-format/content-aside.php:17
+msgid "Read More"
+msgstr ""
+
+#: ../post-format/content-audio.php:49 ../post-format/content-gallery.php:43
+#: ../post-format/content-quote.php:64 ../post-format/content-video.php:53
+#: ../post-format/content.php:40
+msgid "in"
+msgstr ""
+
+#: ../post-format/content-audio.php:79 ../post-format/content-gallery.php:69
+#: ../post-format/content-quote.php:94 ../post-format/content-video.php:83
+#: ../post-format/content.php:65
+msgid "Continue Reading"
+msgstr ""
+
+#: ../search.php:34
+msgid "Search Results Found For"
+msgstr ""
+
+#: ../woocommerce-page.php:41 ../woocommerce-single.php:39
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:18
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:22
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:20
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:22
+#: ../woocommerce/cart/cart-shipping.php:97
+#: ../woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:67
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:76
+#: ../woocommerce/cart/cart-shipping.php:82
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:24 ../woocommerce/cart/mini-cart.php:63
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:78 ../woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:93
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:47 ../woocommerce/cart/mini-cart.php:36
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:76
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:122
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:128
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:55
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:68
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:69
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/loop/form-login.php:14
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/loop/form-login.php:15
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/loop/form-login.php:22
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:19
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:42
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:45
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:43
+msgid "You may also like&hellip;"
+msgstr ""
